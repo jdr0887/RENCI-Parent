@@ -68,12 +68,12 @@
     <repository>
       <id>renci.repository</id>
       <name>renci.repository</name>
-      <url>https://archiva.renci.org:8080/repository/internal</url>
+      <url>http://archiva.renci.org:8080/repository/internal</url>
     </repository>
     <snapshotRepository>
       <id>renci.repository</id>
       <name>renci.repository</name>
-      <url>https://archiva.renci.org:8080/repository/snapshots</url>
+      <url>http://archiva.renci.org:8080/repository/snapshots</url>
     </snapshotRepository>
     <site>
       <id>renci.site</id>
