@@ -38,7 +38,6 @@
   <scm>
     <developerConnection>scm:git:ssh://code.renci.org/gitroot/renci_parent</developerConnection>
     <connection>scm:git:ssh://code.renci.org/gitroot/renci_parent</connection>
-    <tag>HEAD</tag>
   </scm>
   <repositories>
     <repository>
