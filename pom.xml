@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.renci</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   <packaging>pom</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
   <scm>
     <developerConnection>scm:git:ssh://code.renci.org/gitroot/renci_parent</developerConnection>
     <connection>scm:git:ssh://code.renci.org/gitroot/renci_parent</connection>
-    <tag>parent-0.0.3</tag>
+    <tag>HEAD</tag>
   </scm>
   <repositories>
     <repository>
