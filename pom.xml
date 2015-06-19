@@ -38,10 +38,11 @@
     </license>
   </licenses>
   <scm>
-    <developerConnection>scm:git:ssh://code.renci.org/gitroot/renci_parent</developerConnection>
-    <connection>scm:git:ssh://code.renci.org/gitroot/renci_parent</connection>
+    <url>https://github.com/jdr0887/RENCI-Parent</url>
+    <developerConnection>scm:git:git@github.com:jdr0887/RENCI-Parent.git</developerConnection>
+    <connection>scm:git:git@github.com:jdr0887/RENCI-Parent.git</connection>
     <tag>HEAD</tag>
-  </scm>
+  </scm>  
   <repositories>
     <repository>
       <id>renci.repository</id>
