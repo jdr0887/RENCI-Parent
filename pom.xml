@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.renci</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.17-SNAPSHOT</version>
+  <version>0.0.17</version>
   <packaging>pom</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,7 +45,7 @@
     <url>https://github.com/jdr0887/RENCI-Parent</url>
     <developerConnection>scm:git:git@github.com:jdr0887/RENCI-Parent.git</developerConnection>
     <connection>scm:git:git@github.com:jdr0887/RENCI-Parent.git</connection>
-    <tag>HEAD</tag>
+    <tag>parent-0.0.17</tag>
   </scm>  
   <repositories>
     <repository>
