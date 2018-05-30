@@ -25,7 +25,7 @@
     <maven.war.plugin.version>2.6</maven.war.plugin.version>
     <maven.site.plugin.version>3.7.1</maven.site.plugin.version>
     <maven.resources.plugin.version>3.0.1</maven.resources.plugin.version>
-    <maven.plugin.plugin.version>3.5</maven.plugin.plugin.version>
+    <maven.plugin.plugin.version>3.5.2</maven.plugin.plugin.version>
     <maven.pmd.plugin.version>3.4</maven.pmd.plugin.version>
     <maven.info.reports.plugin.version>2.9</maven.info.reports.plugin.version>    
     <junit.version>4.12</junit.version>
