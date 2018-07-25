@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="RENCI Parent">
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.5</version>
+  </skin>
+  <custom>
+    <fluidoSkin>
+      <sideBarEnabled>true</sideBarEnabled>
+    </fluidoSkin>
+  </custom>
+  <bannerLeft>
+    <name>${project.name}</name>
+  </bannerLeft>
+  <bannerRight>
+    <name>RENCI</name>
+    <href>www.renci.org</href>
+  </bannerRight>
+</project>
