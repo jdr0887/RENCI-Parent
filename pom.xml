@@ -10,21 +10,21 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.project.info.reports.plugin.version>3.0.0</maven.project.info.reports.plugin.version>
     <maven.bundle.plugin.version>3.5.1</maven.bundle.plugin.version>    
-    <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
+    <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
     <maven.changelog.plugin.version>2.3</maven.changelog.plugin.version>    
-    <maven.checkstyle.plugin.version>3.0.0</maven.checkstyle.plugin.version>
+    <maven.checkstyle.plugin.version>3.1.0</maven.checkstyle.plugin.version>
     <maven.deploy.plugin.version>2.8.2</maven.deploy.plugin.version>
     <maven.eclipse.plugin.version>2.10</maven.eclipse.plugin.version>
-    <maven.javadoc.plugin.version>3.0.1</maven.javadoc.plugin.version>
+    <maven.javadoc.plugin.version>3.1.1</maven.javadoc.plugin.version>
     <maven.jxr.plugin.version>3.0.0</maven.jxr.plugin.version>
-    <maven.plugin.plugin.version>3.5.2</maven.plugin.plugin.version>
+    <maven.plugin.plugin.version>3.6.0</maven.plugin.plugin.version>
     <maven.pmd.plugin.version>3.9.0</maven.pmd.plugin.version>    
     <maven.release.plugin.version>2.5.3</maven.release.plugin.version>
     <maven.resources.plugin.version>3.1.0</maven.resources.plugin.version>
-    <maven.site.plugin.version>3.7.1</maven.site.plugin.version>    
-    <maven.source.plugin.version>3.0.1</maven.source.plugin.version>
-    <maven.surefire.plugin.version>2.22.1</maven.surefire.plugin.version>    
-    <maven.surefire.report.plugin.version>2.22.1</maven.surefire.report.plugin.version>
+    <maven.site.plugin.version>3.8.2</maven.site.plugin.version>    
+    <maven.source.plugin.version>3.1.0</maven.source.plugin.version>
+    <maven.surefire.plugin.version>2.22.2</maven.surefire.plugin.version>    
+    <maven.surefire.report.plugin.version>2.22.2</maven.surefire.report.plugin.version>
     <junit.version>4.12</junit.version>
   </properties>
   <organization>
